@@ -3,4 +3,4 @@
 
 Build Using: PHP (Laravel Framework) and MySql
 
-Live Demo: [Collaborator](http://www.collaboratorfsc.com/) 
+Live Demo: [Collaborator](http://blooming-inlet-69823.herokuapp.com/) 
